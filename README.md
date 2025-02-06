@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @IceCreamRepublicPuffin
-- 👀 I’m interested in ... Learning coding on my freetime
+- 👋 Hi, I’m @Rusty
+- 👀 I’m interested in ... Learning coding a new world
 - 🌱 I’m currently learning ... HTML CSS JAVA
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... messenger pigeon
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... puffins are from the galapagos islands
+- ⚡ Fun fact: ... margarine is not food
 
 <!---
 IceCreamRepublicPuffin/IceCreamRepublicPuffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
